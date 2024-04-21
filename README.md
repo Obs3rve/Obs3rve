@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Obs3rve
-- 👀 I’m interested in Security + Design
+- 👀 I’m interested in Security + DevOps
 - 🌱 I’m currently learning anything Security
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
