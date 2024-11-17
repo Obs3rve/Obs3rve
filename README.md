@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Obs3rve
+- 👋 Hi, I’m Chinaza
 - 👀 I’m interested in Security + DevOps
-- 🌱 I’m currently learning anything Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently picking up Cloud Native technologies
+- 💞️ I’m looking to collaborate on DevOps projects
+- 📫 How to reach me via email chinazao@yahoo.com
 
 <!---
 Obs3rve/Obs3rve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
